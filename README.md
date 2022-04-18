@@ -1,1 +1,1 @@
-# Numerical-Analysis-in-MATLAB
+# Fixed-Point-Interation-in-MATLAB
